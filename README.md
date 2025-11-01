@@ -1,6 +1,13 @@
 <h1>Hi, I'm Samson Aghanemuzor! </h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+Cyber Security Analyst with hands-on SOC experience delivering 1st/2nd line monitoring, triage, and incident response
+across enterprise SIEM and XDR platforms. Skilled in leveraging threat intelligence platforms and external feeds (e.g.,
+Microsoft Defender Threat Intelligence, AbuseIPDB, VirusTotal) to enrich investigations, correlate IOCs, and enable
+intelligence-driven defence. Proficient in analysing event data from endpoints, proxies, IDS, and network devices to
+detect and escalate malware, ransomware, and insider threats. Experienced in threat hunting, vulnerability
+management, and developing ISMS and incident response playbooks aligned to ISO 27001 and NIST 800-53 controls.
+Strong knowledge of the cyber kill chain and MITRE ATT&CK framework, with proven ability to communicate findings to
+technical and non-technical stakeholders.
 
 
 <h2>🎓 Certifications </h2>
