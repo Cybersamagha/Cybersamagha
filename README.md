@@ -5,6 +5,15 @@
 
 <h2>🎓 Certifications </h2>
 
+1. CompTIA Network+
+1. CompTIA Security+
+1. Microsoft Azure AZ—900
+1. Microsoft Certified: Azure Administrator Associate
+1. Microsoft Certified: Azure Solutions Architect Expert
+1. AWS Certified Sysops Administrator
+1. AWS Certified Solutions Architect
+1. NCFE Level 3 Certificate in Cybersecurity
+
   
 
 
